@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @chirag-miskin
-- 👀 I’m interested in Data Science
-<!---
-chirag-miskin/chirag-miskin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Chirag B Miskin — Security Engineer
+
+Senior security engineer focused on application security, AI/ML security,
+and threat intelligence. 4 years building security programmes at scale —
+from embedding SAST/DAST into CI/CD pipelines to LLM threat modelling
+for production AI workloads.
+
+## Stack
+`Python` `Terraform` `Bash` `AWS` `Checkov` `Snyk` `OWASP ZAP` `GitHub Actions`
+
+## Reach me
+chirag.miskin@gmail.com · [LinkedIn](https://linkedin.com/in/chiragmiskin)
